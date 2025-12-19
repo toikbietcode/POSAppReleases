@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<item>
-	<version>1.0.1.0</version>
-	<url>
-		https://github.com/toikbietcode/POSAppReleases/releases/download/v1.0.1/Release.zip
-	</url>
-	<mandatory>false</mandatory>
-	<changelog>update</changelog>
-</item>
